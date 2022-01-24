@@ -9,7 +9,7 @@ function WebsiteNavbar() {
             <Container>
             <Link className='navbar-brand' to="/LearningReact">LearningReact &emsp;/</Link>
             <Nav className="me-auto">
-            <Link className='navbar-subtitles hover-underline-animation' to="/LearningReact">Home</Link>
+            <Link className='navbar-subtitles hover-underline-animation' to="/">Home</Link>
             <Link className='navbar-subtitles hover-underline-animation' to="/projects">Projects</Link>
             <Link className='navbar-subtitles hover-underline-animation' to="/goals">Goals</Link>
             </Nav>

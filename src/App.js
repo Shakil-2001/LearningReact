@@ -23,7 +23,7 @@ function App() {
     <Router>
         <Nav/>
           <Routes>
-            <Route exact path='/learningReact' element={<Home blogPosts={blogPosts} getPost={getPost}/>}></Route>
+            <Route exact path='/' element={<Home blogPosts={blogPosts} getPost={getPost}/>}></Route>
 
             <Route exact path={'/article-' + Post.slug} element={<Article post={Post}/>}>
             </Route>
