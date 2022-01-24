@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/LearningReact/static/css/main.761a3f17.css",
-    "main.js": "/LearningReact/static/js/main.ab6a53e3.js",
-    "static/js/787.9e0c1f39.chunk.js": "/LearningReact/static/js/787.9e0c1f39.chunk.js",
-    "static/media/website.png": "/LearningReact/static/media/website.4cf8fa44f5303896b601.png",
-    "static/media/todo.png": "/LearningReact/static/media/todo.224ef425c9fe92128539.png",
-    "static/media/calc.png": "/LearningReact/static/media/calc.977a4b606fc58c3637ce.png",
-    "index.html": "/LearningReact/index.html",
-    "main.761a3f17.css.map": "/LearningReact/static/css/main.761a3f17.css.map",
-    "main.ab6a53e3.js.map": "/LearningReact/static/js/main.ab6a53e3.js.map",
-    "787.9e0c1f39.chunk.js.map": "/LearningReact/static/js/787.9e0c1f39.chunk.js.map"
+    "main.css": "/learningreact/static/css/main.761a3f17.css",
+    "main.js": "/learningreact/static/js/main.2f7223d0.js",
+    "static/js/787.9e0c1f39.chunk.js": "/learningreact/static/js/787.9e0c1f39.chunk.js",
+    "static/media/website.png": "/learningreact/static/media/website.4cf8fa44f5303896b601.png",
+    "static/media/todo.png": "/learningreact/static/media/todo.224ef425c9fe92128539.png",
+    "static/media/calc.png": "/learningreact/static/media/calc.977a4b606fc58c3637ce.png",
+    "index.html": "/learningreact/index.html",
+    "main.761a3f17.css.map": "/learningreact/static/css/main.761a3f17.css.map",
+    "main.2f7223d0.js.map": "/learningreact/static/js/main.2f7223d0.js.map",
+    "787.9e0c1f39.chunk.js.map": "/learningreact/static/js/787.9e0c1f39.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.761a3f17.css",
-    "static/js/main.ab6a53e3.js"
+    "static/js/main.2f7223d0.js"
   ]
 }
