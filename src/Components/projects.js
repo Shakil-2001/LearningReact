@@ -92,7 +92,7 @@ function Projects() {
 
                             </Card.Text>
 
-                            <Link className='mb-2 mx-2 btn btn-primary' variant="primary" to='/'>View App</Link>
+                            <Link className='mb-2 mx-2 btn btn-primary' variant="primary" to='/LearningReact'>View App</Link>
                         </Card.Body>
                         
                         
